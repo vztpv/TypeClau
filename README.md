@@ -1,2 +1,1 @@
 # TypeClau
-Limited. Ved
